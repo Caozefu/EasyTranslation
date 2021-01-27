@@ -1,0 +1,26 @@
+{
+  "name": "easy-translation",
+  "version": "1.0.0",
+  "description": "Lightweight translation Api, used on the web or node.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caozefu/EasyTranslation.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "caozefu1997@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caozefu/EasyTranslation/issues"
+  },
+  "homepage": "https://github.com/Caozefu/EasyTranslation#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
