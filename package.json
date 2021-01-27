@@ -1,5 +1,5 @@
 {
-  "name": "easy-translation",
+  "name": "easy-translation-node",
   "version": "1.0.0",
   "description": "Lightweight translation Api, used on the web or node.js",
   "main": "lib/index.js",
